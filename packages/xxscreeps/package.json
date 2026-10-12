@@ -1,5 +1,5 @@
 {
-  "name": "xxscreeps",
+  "name": "@screepts/xxscreeps",
   "version": "0.2.1",
   "type": "module",
   "license": "ISC",
@@ -82,6 +82,6 @@
   "homepage": "https://github.com/laverdet/xxscreeps/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laverdet/xxscreeps.git"
+    "url": "git+https://github.com/screepts/xxscreeps.git"
   }
 }
